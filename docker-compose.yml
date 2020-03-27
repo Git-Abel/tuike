@@ -1,0 +1,22 @@
+version: '3.7'
+services:
+  web:
+    image: 'php:5.6-fpm'
+    container_name: 'taoke'
+    ports:
+      - "9000:9000"
+    restart: always
+    volumes:
+      - ./web:/www
+
+  nginx:
+    image: 'nginx'
+    container_name: 'nginx'
+    restart: unless-stopped
+    volumes:
+      - ./nginx:/etc/nginx/conf.d
+      - ./web:/usr/share/nginx/html
+    ports:
+      - 8080:80
+    environment:
+      - TZ=Asia/Shanghai

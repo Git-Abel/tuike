@@ -1,0 +1,851 @@
+a:3:{s:4:"time";i:1585277931;s:6:"expire";i:60;s:5:"value";s:57555:"<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="zh-CN">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
+    <meta name="renderer" content="webkit">
+            <script>
+            var standId = 1367058;
+            var MtaH5={
+                clickShare:function(){},
+                clickStat:function(){},
+                hack:function(){},
+                pgv:function(){}
+            };
+            var getCookie = function(name){
+                var arr,reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)");
+                if(arr=document.cookie.match(reg))
+                return unescape(arr[2]);
+                else
+                return null;
+            };
+            var _mtac= {"performanceMonitor":1,"senseQuery":1};     
+            (function() { 
+                var mta=document.createElement("script"); 
+                mta.src="//pingjs.qq.com/h5/stats.js?v2.0.4"; 
+                mta.setAttribute("name", "MTAH5");
+                /*mta.setAttribute("sid", "500628441");
+                mta.setAttribute("cid", "500628444");*/
+                mta.setAttribute("sid", "500626642");
+                mta.setAttribute("cid", "500626643");
+
+                var s=document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(mta, s);     
+            })(); 
+            // DTK统计代码
+            (function() {
+                var script = document.createElement("script");
+                var time = new Date(),FullYear = time.getFullYear(),Month = time.getMonth(),getDate = time.getDate();
+                script.src = "https://public.ffquan.cn/satc/dtksatc.js?v=20200327105000";
+                script.setAttribute("name", "DTKSATC");
+                script.setAttribute("tid", "dtk-cms-1367058"); // 站点id
+                script.setAttribute("uid", getCookie("user_id")); // 登录用户id
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(script, s); 
+            })(); 
+        </script>
+        <script src="https://cmsstatic.ffquan.cn//wap_new/lib/md5.js?v=202003091818"></script>
+             <link href="" rel="SHORTCUT ICON">
+    <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//css/reset.css?v=202003091818">
+    <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//css/footer.css?v=202003091818">
+    <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//css/pager.css?v=202003091818">
+    <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//css/swiper.min.css?v=202003091818">
+    <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//css/dtk.css?v=202003091818">
+    <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//css/new_home.css?v=202003091818">
+    <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//css/share.css?v=202003091818">
+    <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//web/css/cms_ggw.css?v=202003091818">
+
+    <!-- 皮肤 S-->
+    <link href="https://cmsstatic.ffquan.cn//web/css/cms_skin/pink.css?v=202003091818" rel="stylesheet">    <!-- 皮肤 E-->
+
+    <link rel="stylesheet" href="https://cmsstatic.ffquan.cn//css/iconfont.css?v=202003091818">
+    <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//web/css/skin/blue.monday/css/jplayer.blue.monday.min.css?v=202003091818" />
+<link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//css/detail.css?v=202003091818" />
+<link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//css/detail_new.css?v=202003091818" />
+<title>ZEESEA滋色天使丘比特钻石高光修容盘提亮珠光土豆泥恶魔神仙闪粉_精品购</title>
+    <meta name="keywords" content=",精品购"/>
+    <meta name="description" content=""/>
+    <meta name="api" content="//cmsjapi.ffquan.cn">
+    <script src="https://cmsstatic.ffquan.cn/other/jquery/1.12.4/jquery.min.js?v=202003091818"></script>
+    <script src="https://cmsstatic.ffquan.cn//js/layer/layer.js?v=202003091818"></script>
+    <script src="https://cmsstatic.ffquan.cn//js/dtk.js?v=202003091818"></script>
+    <script src="https://cmsstatic.ffquan.cn//js/swiper.min.js?v=202003091818"></script>
+    <script src="https://cmsstatic.ffquan.cn//js/clipboard.min.js?v=202003091818"></script>    
+    <script src="https://cmsstatic.ffquan.cn//js/ZeroClipboard.js?v=202003091818"></script>
+    <script src="https://cmsstatic.ffquan.cn/other/jquery-cookie/1.4.1/jquery.cookie.min.js?v=202003091818"></script>
+    <script src="https://cmsstatic.ffquan.cn//js/jquery.qrcode.min.js?v=202003091818"></script>
+    <style>
+        .ios-qr-code-i{
+            width: 100px; height: 100px; margin: 15px auto 0;
+        }
+        .ios-qr-code-i canvas{
+            margin: auto; display: block;
+        }
+    </style>
+</head>
+<script>
+    var site_uid = '1367058';
+    var RESOURCE_HOST = "https://cmsstatic.ffquan.cn/";
+    var HOST_VERSIONS = "202003091818";
+    var ActivityConfig='[]';
+    var open_red='0';
+    var timer = setInterval(function() {
+        if(typeof $().qrcode){
+            clearInterval(timer)
+            $('.ios-qr-code-i').qrcode({
+                render: "canvas",
+                width:100,
+                height:100, 
+                text: "http://apphtml.ffquan.com/index.php?r=index/ios-share-down-v2&app_id=" + site_uid
+            });
+        }
+    }, 100);
+    
+</script>
+
+<body data-appid="1367058" data-in="1">
+<!--顶部推荐位s-->
+<div id="content" data-ggwurl="/index.php?r=index/recomd&t=58">
+    <div id="testTop"></div>
+</div>
+<!--顶部推荐位e-->
+
+<div class="new_home">
+    <div id="headNav">
+        <div id="header">
+            <a class="header_logo" href="/index.php?r=index/index&u=1367058" style=" background: url('')left top no-repeat; background-size: auto 90px; ">
+                精品购            </a>
+
+            
+            <div id="showList">
+                <div id="search">
+                    <input type="hidden" name="h_kw" id="h_kw" value="连衣裙">
+                    <input type="hidden" name="h_url" id="h_url" value="/index.php?r=l">
+                    <input type="hidden" name="m_url" id="m_url" value="/index.php?r=l&kw=%E8%BF%9E%E8%A1%A3%E8%A3%99&introduce=1">
+                    <form action="/index.php?r=index/index" method="get">
+                        <input type="hidden" name="input" value="2">
+                        <input type="hidden" name="r" value="l">
+                        <input type="text" autocomplete="off" class="theme-border-color-1 my-src-input" value="" name="kw" placeholder="连衣裙"/>
+                        <span class="src-close-btn"></span>
+                        <button class="theme-bg-color-1 my-src-btn">搜 索</button>
+                    </form>
+                    <div class="rec_word">
+                                                    <a href="/index.php?r=l&kw=%E6%B4%97%E8%84%B8%E5%B7%BE&hot=0" style="">洗脸巾</a>
+                                                    <a href="/index.php?r=l&kw=%E8%87%AA%E7%83%AD%E7%81%AB%E9%94%85&hot=1" style="">自热火锅</a>
+                                                    <a href="/index.php?r=l&kw=%E7%91%9C%E4%BC%BD%E5%9E%AB&hot=2" style="">瑜伽垫</a>
+                                                    <a href="/index.php?r=l&kw=%E8%BF%9E%E8%A1%A3%E8%A3%99&hot=3" style="color:red;">连衣裙</a>
+                                                    <a href="/index.php?r=l&kw=%E9%98%B2%E6%99%92%E9%9C%9C&hot=4" style="">防晒霜</a>
+                                                    <a href="/index.php?r=l&kw=%E8%80%B3%E6%9C%BA&hot=5" style="">耳机</a>
+                                                    <a href="/index.php?r=l&kw=%E5%85%85%E7%94%B5%E5%AE%9D&hot=6" style="color:red;">充电宝</a>
+                                                    <a href="/index.php?r=a/t&i=00bedec1b3ba6740&hot=7" style="">中华汉服日</a>
+                                            </div>
+                    <ul class="search-land">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <p>关闭</p>
+                    </ul>
+                </div>
+            </div>
+            <img class="head_group fr" src="https://cmsstatic.ffquan.cn//images/home/headgrup.png?v=202003091818" alt="">
+        </div>
+
+        <!--悬浮搜索框s-->
+                <!--悬浮搜索框e-->
+    </div>
+
+    <div id="baner" class="theme-bg-color-1">
+        <div id="nav">
+            <a data-dtk-satc="{desc:'首页',name:'CmsPcPartEvent'}" href="/index.php?r=index/index" class="theme-hover-bg-color-8 iconM active">
+                首页
+            </a>
+
+            
+
+            
+            
+            
+            
+            
+            
+                                <a data-dtk-satc="{desc:'好货精选',name:'CmsPcPartEvent'}"  class="theme-hover-bg-color-8  "  data-ca="l/d----l/index"
+                       href="/index.php?r=l">
+                        好货精选                        
+                        
+                        
+                                            </a>
+                                    <a data-dtk-satc="{desc:'疯抢榜',name:'CmsPcPartEvent'}"  class="theme-hover-bg-color-8  "  data-ca="l/d----p/index"
+                       href="/index.php?r=p">
+                        疯抢榜                        
+                        
+                        
+                                                    <!-- 榜单角标 -->
+                                                </a>
+                                    <a data-dtk-satc="{desc:'9块9包邮',name:'CmsPcPartEvent'}"  class="theme-hover-bg-color-8  "  data-ca="l/d----nine/index"
+                       href="/index.php?r=nine">
+                        9块9包邮                        
+                        
+                        
+                                            </a>
+                                    <a data-dtk-satc="{desc:'咚咚抢',name:'CmsPcPartEvent'}"  class="theme-hover-bg-color-8  "  data-ca="l/d----ddq/index"
+                       href="/index.php?r=ddq">
+                        咚咚抢                        
+                        
+                        
+                                            </a>
+                
+
+
+            
+            
+
+
+        </div>
+    </div>
+
+    <div id="dtk_mian">
+        <div class="year-bg">
+            <script src="https://cmsstatic.ffquan.cn//web/js/lazyload.js?v=202003091818"></script>
+<link rel="stylesheet" href="//at.alicdn.com/t/font_653505_5n4yx71wjwt.css">
+
+<style>
+    html body {
+        background-color: #fff;
+    }
+    .goods-list ul li:hover {
+        border: 1px solid #de366e;
+    }
+</style>
+<div class="detail_new">
+
+        <div class="top-block">
+        <!--当前位置导航start-->
+        <div class="nav-wrap">
+            <div class="text"><a href="/index.php?r=index/index&u=1367058">首页</a> <i></i>
+
+                                    <a href="/index.php?r=l&u=1367058">领券直播</a> <i></i>
+                
+                                    <a href="/index.php?r=l&cid=3&u=1367058">美妆</a> <i></i>
+                
+                <span>优惠详情</span>
+            </div>
+        </div>
+        <!--当前位置导航end-->
+        <div class="detail-wrap main-container">
+            <!--大图显示start-->
+            <div class="detail-row clearfix">
+                <div class="img-block">
+                                            <a rel="nofollow"
+                           data-dtk-satc="{gid:'576278117694',desc:'领券购买',name:'DetailGoodsEvent'}"
+                           href="https://uland.taobao.com/coupon/edetail?activityId=76e465f674db4854aa55a017e720dbc4&pid=mm_112317939_1418450426_110164600174&itemId=576278117694&src=qhkj_dtkp&dx=1"                            target="_blank" class="img  shop_link"  data-gid="25325706">
+                            <img class="lg-img" src="https://img.alicdn.com/bao/uploaded/TB1y5_ykNn1gK0jSZKPXXXvUXXa.png_400x400.jpg" data-gid="25325706" alt="ZEESEA天使丘比特钻石高光闪粉修容盘">
+
+                            <ul class="sm-img">
+                                                            </ul>
+
+                        </a>
+
+                    
+                </div>
+
+
+
+                <!--大图显示end-->
+
+                <div class="detail-col">
+
+                    <a class="title clearfix   shop_link" rel="nofollow" data-gid="25325706" href="https://uland.taobao.com/coupon/edetail?activityId=76e465f674db4854aa55a017e720dbc4&pid=mm_112317939_1418450426_110164600174&itemId=576278117694&src=qhkj_dtkp&dx=1"  target="_blank">
+                        <span class="tmall"></span>
+                        <span class="title">ZEESEA天使丘比特钻石高光闪粉修容盘</span>
+                        
+                    </a>
+
+                    <div class="active-type">
+                        <div class="act-bg" >
+                            <!--淘抢购-->
+                            <span class="tit fl"></span>
+                            <span class="des"></span>
+
+                            <!--疯抢榜文案-->
+                            <div class="rank fr"><span class="rank-num">近24小时， <i></i>人已抢</span> <span class="rank-list">疯抢排名 <i>No.<b></b></i></span></div>
+
+                            <!--淘抢购 聚划算 咚咚呛文案-->
+                            <div class="last-time tjd fr"><span>距离结束仅剩</span> <i class='h'>00</i> : <i class='m'>00</i> : <i class='s'>00</i></div>
+
+                            <!--3.8节文案-->
+                            <div class="last-time women fr"><span class="soe"></span> <i class='h'>00</i> : <i class='m'>00</i> : <i class='s'>00</i></div>
+
+
+                            <!--618-->
+                            <div class="last-time activity_3 fr"></div>
+                            <div class="last-time activity_4 fr"></div>
+
+                            <!--99大促预告-->
+                            <div class="promotion last-time">
+                                <span class="dj_text" style="display:none">定金<b class="dj"></b>元<span style="display:none">立减<b class="lj">0</b>元</span></span>
+                                <span class="fr lq-text">领券再减</span>
+                                <span class="fr time-text">距离结束仅剩 <i class='h'>00</i> : <i class='m'>00</i> : <i class='s'>00</i></span>
+                            </div>
+
+                            <!--99大促正场-->
+                            <div class="promotion_start last-time">
+                                <span class="fr time-text-start">距离结束仅剩 <i class='h'>00</i> : <i class='m'>00</i> : <i class='s'>00</i></span>
+                            </div>
+
+                            <!--定金商品-->
+                                                       <!-- 非定金商品 -->
+                            
+
+
+
+
+
+
+
+                        </div>
+                    </div>
+                    <!--上新时间  累计销量-->
+                    <div class="time-num"><span class="time">上新时间：03-26 10:38</span>
+                        <span class="num">
+                            累计销量                            ：
+                            <i style='color:#FF2E54 '>5.4</i> 万件                        </span>
+                    </div>
+
+                    <!--独家优惠-->
+                    <div class="coupon">独家优惠： <span class="quan">5元券</span></div>
+
+                    <!--商品标签-->
+                    <div class="goods-label">
+                        商品标签：
+                                                <span class="label">天猫</span><span class="label">聚划算</span><span class="label">包邮</span><span class="label">运费险</span>                        
+                        
+                    </div>
+                                            <div class="price">¥ <i>34.9</i> <b>¥<i>39.9</i></b></div>
+                    
+
+                    <div class="buy-share">
+                        <a data-dtk-satc="{gid:'25325706',desc:'领券购买',name:'DetailGoodsEvent'}" data-gid="25325706" rel="nofollow" class="buy shop_link  " href="https://uland.taobao.com/coupon/edetail?activityId=76e465f674db4854aa55a017e720dbc4&pid=mm_112317939_1418450426_110164600174&itemId=576278117694&src=qhkj_dtkp&dx=1" target="_blank" >
+                            领券购买                        </a> 
+
+                        <button class="share fr" onClick="DetailLayerImage(this,25325706,goods)"><i class="iconfont icon-fenxiang"></i> <span>分享</span>
+                            <!--分享链接s-->
+                            <!-- <div class="text2">
+                                <div class="bdshare">
+                                    <div class="share-platform">
+                                        <div class="share-platform-r">
+                                             <div class="bshare-custom bdsharebuttonbox bdshare-button-style1-32">         
+                                                <a title="分享到微信" class="bshare-weixin bds_weixin"></a>
+                                                <a title="分享到新浪微博" class="bshare-sinaminiblog bds_tsina"></a>
+                                                <a title="分享到QQ好友" class="bshare-qqim bds_sqq"></a>
+                                                <a title="分享到QQ空间" class="bshare-qzone bds_qzone"></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div> -->
+                            <!--分享链接e-->
+                        </button>
+                    </div>
+
+
+
+                </div>
+
+                <div class="goods-desc cf">
+                    <div class="tit">推荐理由</div>
+                    <div class="rec-text">
+                                                    <span>第二件半价！【ZEESEA旗舰店】滋色全新丘比特钻石高光神仙闪粉！小爱神浮雕高端大气，珍珠白：粉质细腻，呈现极光水感肌，香槟金：高能高光，闪耀如天使，呈现钻石光感肌，轻松打造精致小v脸【赠运费险】</span>
+                                            </div>
+
+                    <div class="content">
+                        <p>此款商品正在<a href='/index.php?r=l&hd=3&u=1367058' target='_blank'>聚划算</a>上参加特价活动，更有5元优惠券，到手仅需34.9元，绝对超值，有需要可速度下单哦！</p>
+<!--                        <div class="last-time"> <i>1</i> 天 <i>20</i> 时 <i>59</i> 分 <i>36</i> 秒 后结束</div>-->
+                    </div>
+
+                    <div class="feedback">我要举报：
+                        <a href="javascript:;" class="err" data-id="1">价格错误</a>
+                        <a href="javascript:;" class="err" data-id="2">优惠券失效</a>
+                        <a href="/index.php?r=index/feedbackpc&id=25325706" class="">其他</a>
+                    </div>
+                </div>
+            </div>
+
+                        <div class="shop-msg">
+                <div class="tit"><span>店铺信息</span></div>
+                <div class="shop-block">
+                    <img class="shop-img fl" src="https://img.alicdn.com/imgextra//79/11/TB107mLpKL2gK0jSZPhwu1hvXXa.png" alt="" width="60" height="60">
+                    <div class="shop-name fl">
+                        <p>ZEESEA滋色旗舰店</p>
+                                                    <p class="iconfont icon-detail_tmall"></p>
+                                            </div>
+                    <ul class="shop-score fr">
+                        
+                        <li><p>宝贝描述</p><span>4.8 <i class="ico high">高</i></span></li>
+                        <li><p>卖家服务</p><span>4.8 <i class="ico high">高</i></span></li>
+                        <li><p>物流服务</p><span>4.8 <i class="ico high">高</i></span></li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="goods-detail">
+                <div class="tit"><span>商品详情</span></div>
+                                    <img class="lazy img check_img_show"  src="https://cmsstatic.ffquan.cn//web/images/rolling.gif?v=202003091818"  data-original="http://img.alicdn.com/imgextra/i3/1773211220/O1CN01hkCLKv1Ksnmx3zF30_!!1773211220.jpg" alt="">
+                                    <img class="lazy img check_img_show"  src="https://cmsstatic.ffquan.cn//web/images/rolling.gif?v=202003091818"  data-original="http://img.alicdn.com/imgextra/i1/1773211220/O1CN01bzUR8Y1Ksnmxh7c8i_!!1773211220.jpg" alt="">
+                                    <img class="lazy img check_img_show"  src="https://cmsstatic.ffquan.cn//web/images/rolling.gif?v=202003091818"  data-original="http://img.alicdn.com/imgextra/i2/1773211220/O1CN01LfYzPB1KsnmvegBT9_!!1773211220.jpg" alt="">
+                                    <img class="lazy img check_img_show"  src="https://cmsstatic.ffquan.cn//web/images/rolling.gif?v=202003091818"  data-original="http://img.alicdn.com/imgextra/i1/1773211220/O1CN01fo6nFw1Ksnmw9Yzpe_!!1773211220.jpg" alt="">
+                                    <img class="lazy img check_img_show"  src="https://cmsstatic.ffquan.cn//web/images/rolling.gif?v=202003091818"  data-original="http://img.alicdn.com/imgextra/i3/1773211220/O1CN01wQccr11Ksnmxh6fxq_!!1773211220.jpg" alt="">
+                                    <img class="lazy img check_img_show"  src="https://cmsstatic.ffquan.cn//web/images/rolling.gif?v=202003091818"  data-original="http://img.alicdn.com/imgextra/i3/1773211220/O1CN01PxpNPh1Ksnn6HIsi9_!!1773211220.jpg" alt="">
+                                    <img class="lazy img check_img_show"  src="https://cmsstatic.ffquan.cn//web/images/rolling.gif?v=202003091818"  data-original="http://img.alicdn.com/imgextra/i2/1773211220/O1CN01hzS3Hx1Ksnn7rkgZA_!!1773211220.jpg" alt="">
+                                    <img class="lazy img check_img_show"  src="https://cmsstatic.ffquan.cn//web/images/rolling.gif?v=202003091818"  data-original="http://img.alicdn.com/imgextra/i4/1773211220/O1CN018xxi3B1KsnmvMSmG1_!!1773211220.jpg" alt="">
+                                    <img class="lazy img check_img_show"  src="https://cmsstatic.ffquan.cn//web/images/rolling.gif?v=202003091818"  data-original="http://img.alicdn.com/imgextra/i4/1773211220/O1CN01TaOELV1KsnmvMTVxP_!!1773211220.jpg" alt="">
+                                    <img class="lazy img check_img_show"  src="https://cmsstatic.ffquan.cn//web/images/rolling.gif?v=202003091818"  data-original="http://img.alicdn.com/imgextra/i3/1773211220/O1CN01I6ldws1KsnmsZCizr_!!1773211220.jpg" alt="">
+                                    <img class="lazy img check_img_show"  src="https://cmsstatic.ffquan.cn//web/images/rolling.gif?v=202003091818"  data-original="http://img.alicdn.com/imgextra/i2/1773211220/O1CN01JGpbFP1Ksnn0JcMAF_!!1773211220.jpg" alt="">
+                                    <img class="lazy img check_img_show"  src="https://cmsstatic.ffquan.cn//web/images/rolling.gif?v=202003091818"  data-original="http://img.alicdn.com/imgextra/i4/1773211220/O1CN01cS5eaa1Ksnmxvwp5b_!!1773211220.jpg" alt="">
+                                    <img class="lazy img check_img_show"  src="https://cmsstatic.ffquan.cn//web/images/rolling.gif?v=202003091818"  data-original="http://img.alicdn.com/imgextra/i4/1773211220/O1CN0159Ilek1KsnmvnulNN_!!1773211220.jpg" alt="">
+                                    <img class="lazy img check_img_show"  src="https://cmsstatic.ffquan.cn//web/images/rolling.gif?v=202003091818"  data-original="http://img.alicdn.com/imgextra/i4/1773211220/O1CN01gVbpGS1KsnmzGujd2_!!1773211220.jpg" alt="">
+                                    <img class="lazy img check_img_show"  src="https://cmsstatic.ffquan.cn//web/images/rolling.gif?v=202003091818"  data-original="http://img.alicdn.com/imgextra/i3/1773211220/O1CN01GgIZNQ1KsnmoBZyEL_!!1773211220.jpg" alt="">
+                                    <img class="lazy img check_img_show"  src="https://cmsstatic.ffquan.cn//web/images/rolling.gif?v=202003091818"  data-original="https://gw.alicdn.com/tfs/TB1QaOASHrpK1RjSZTEXXcWAVXa-1125-231.png" alt="">
+                            </div>
+
+
+        </div>
+
+        <div  class="right-container">
+                            <div class="rec-block fav">
+                    <div class="tit"><span>可能喜欢</span>
+                        <input type="hidden" class="cur-page" value="1">
+                        <ul class="pagination">
+                            <li class="prev iconfont icon-houtui btn"></li>
+                            <li class="next iconfont icon-qianjin btn"></li>
+                        </ul>
+                    </div>
+                                        <a href="/index.php?r=l/d&id=25340760&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="https://img.alicdn.com/imgextra/i4/71387997/O1CN01sC8DyR28wfvSwzrgk_!!71387997.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>【稚优泉旗舰店】倾心单色高光粉</p>
+                            <span class="coupon">券后 <i>¥ 34.9</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25343379&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="https://img.alicdn.com/imgextra/i3/3323347443/O1CN01qaylSH24qwVPpIbmb_!!3323347443.png_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>blings小飞碟高光生姜五花肉腮红</p>
+                            <span class="coupon">券后 <i>¥ 29.9</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25346056&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="https://img.alicdn.com/imgextra/i4/2201301189735/O1CN01s4SGKw2LmgFQSyrVg_!!2201301189735.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>【佰妃炫】钻石高光修容盘</p>
+                            <span class="coupon">券后 <i>¥ 14.9</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25331857&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="https://img.alicdn.com/imgextra/i4/407336293/O1CN01Ui1jif1wMF28y5gAu_!!407336293.png_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>【买1送1】思尚防水防汗高光修容棒共2支</p>
+                            <span class="coupon">券后 <i>¥ 19</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25344094&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="https://img.alicdn.com/imgextra/i4/827058968/O1CN01uoRHCR2G7OU2fDDap_!!827058968.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>【恋意】三色高光遮瑕修容粉</p>
+                            <span class="coupon">券后 <i>¥ 9.9</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25339612&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="https://gd4.alicdn.com/imgextra/i4/2673117974/O1CN01Io9j0q28m8kOBFyqC_!!2673117974.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>双头高光两用卧蚕笔遮瑕修容棒</p>
+                            <span class="coupon">券后 <i>¥ 19.9</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25324842&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="https://img.alicdn.com/imgextra/i3/2206605252033/O1CN01Uaefmm1Qt9mBSxZqI_!!0-item_pic.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>czel绔姿 星钻单色高光修容盘</p>
+                            <span class="coupon">券后 <i>¥ 6.9</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25292006&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="https://img.alicdn.com/imgextra/i2/2200754170328/O1CN01mzMneL1EIGU1T1MSn_!!2200754170328.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>第2件十元琦悦诗高光钻石提亮闪粉</p>
+                            <span class="coupon">券后 <i>¥ 19.9</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25339553&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="//img.alicdn.com/imgextra/i3/2200558461214/O1CN01RCBhjD1Kq3JJxXPuk_!!2200558461214.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>【光影塑性】生姜星光闪耀高光粉修容盘</p>
+                            <span class="coupon">券后 <i>¥ 9.9</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25329515&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="https://img.alicdn.com/imgextra/i3/92608566/O1CN01WwXqZC2D9HGgqiJFp_!!92608566.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>抖音韩国艺术课堂高光修容粉饼盘</p>
+                            <span class="coupon">券后 <i>¥ 29.9</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25329493&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="https://img.alicdn.com/imgextra/i4/92608566/O1CN01cqvYfc2D9HFzuJBAp_!!92608566.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>修容棒双头高光两用侧影提亮</p>
+                            <span class="coupon">券后 <i>¥ 19.9</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25335938&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="https://img.alicdn.com/bao/uploaded/O1CN01xIeaX41nphwgxs5HR_!!2-item_pic.png_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>【采青】双头两用高光修容棒</p>
+                            <span class="coupon">券后 <i>¥ 9.9</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25339530&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="https://img.alicdn.com/imgextra/i1/1673756280/O1CN01uJ9DTu1wGHoyy7dsj_!!1673756280.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>【Girl】双头高光修容棒侧影遮瑕提亮</p>
+                            <span class="coupon">券后 <i>¥ 9.9</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25334940&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="https://img.alicdn.com/imgextra/i4/43574553/O1CN01NPmThU1jVJr5KyrpT_!!43574553.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>璐妠luna滋润自然防水高光液</p>
+                            <span class="coupon">券后 <i>¥ 9.9</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25308778&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="https://img.alicdn.com/bao/uploaded/O1CN0129dKLU1fip4p3zZWE_!!2-item_pic.png_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>影语菡妃双头立体V脸修容棒</p>
+                            <span class="coupon">券后 <i>¥ 9.9</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25312470&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="https://img.alicdn.com/imgextra/i4/2206334332650/O1CN01YFTtz51VRk8dUoDou_!!2206334332650.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>INGRID腮红高光一体盘修容盘</p>
+                            <span class="coupon">券后 <i>¥ 74</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25322722&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="//img.alicdn.com/imgextra/i3/2206753867273/O1CN01yoZnmH23b5AEb4mJe_!!2206753867273.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>ASTK高光阴影修容盘遮瑕修容</p>
+                            <span class="coupon">券后 <i>¥ 25</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25285378&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="https://gd3.alicdn.com/imgextra/i3/14218886/O1CN01N8U8Ml2FVpyukO38v_!!14218886.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>blings高光闪粉修容提亮粉饼</p>
+                            <span class="coupon">券后 <i>¥ 21.9</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25275628&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="//img.alicdn.com/imgextra/i3/111753636/O1CN01K1Uhdc1cjKfeDV5eQ_!!111753636.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>钻石高光修容盘一体盘提亮粉饼</p>
+                            <span class="coupon">券后 <i>¥ 24.9</i></span>
+                        </div>
+                    </a>
+                                        <a href="/index.php?r=l/d&id=25314922&u=1367058" class="rec-list"  target="_blank">
+                        <img class="fl" src="https://img.alicdn.com/imgextra/i1/844573809/O1CN013O5sae1e0ZCVBc0R3_!!844573809.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        <div class="content">
+                            <p>小红书超火小灯泡钻石滚珠高光液</p>
+                            <span class="coupon">券后 <i>¥ 11.9</i></span>
+                        </div>
+                    </a>
+                                    </div>
+                                        <div class="rec-block receive">
+                    <div class="tit"><span>今日热销</span></div>
+                    
+                    <a href="/index.php?r=l/d&id=25331329&u=1367058" class="rec-list" target="_blank">
+                        <div class="fl">
+                            <span class="tabs i0">1</span>
+                            <img class="fl" src="https://img.alicdn.com/imgextra/i3/2201471126346/O1CN01KeVgqe1wkW1XcG3P0_!!0-item_pic.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        </div>
+                        
+
+
+                        <div class="content">
+                            <p>【现货】三层熔布一次性口罩10只装</p>
+                            <span class="coupon">券后 <i>¥ 11.9</i></span>
+                            <div class="received">近2小时疯抢  <i>4.5万</i> 件</div>
+                        </div>
+                    </a>
+                    
+                    <a href="/index.php?r=l/d&id=25331533&u=1367058" class="rec-list" target="_blank">
+                        <div class="fl">
+                            <span class="tabs i1">2</span>
+                            <img class="fl" src="https://img.alicdn.com/imgextra/i3/2456600791/O1CN01QZ6c6S1HiJsWiNyDA_!!2456600791.png_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        </div>
+                        
+
+
+                        <div class="content">
+                            <p>【百人验货】加厚三层口罩10只</p>
+                            <span class="coupon">券后 <i>¥ 14.9</i></span>
+                            <div class="received">近2小时疯抢  <i>5.5万</i> 件</div>
+                        </div>
+                    </a>
+                    
+                    <a href="/index.php?r=l/d&id=25344530&u=1367058" class="rec-list" target="_blank">
+                        <div class="fl">
+                            <span class="tabs i2">3</span>
+                            <img class="fl" src="https://img.alicdn.com/imgextra/i4/771521010/O1CN01qVjW1A1JKcbxemr4I_!!771521010.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                        </div>
+                        
+
+
+                        <div class="content">
+                            <p>【OKADY】欧佩二裂酵母修护面膜</p>
+                            <span class="coupon">券后 <i>¥ 29</i></span>
+                            <div class="received">近2小时疯抢  <i>2.4万</i> 件</div>
+                        </div>
+                    </a>
+                                       <!--  <div class="tab_info_con" style="">
+                        <ul class="ninePicBox">
+                                                            <li class=""><a href="/index.php?r=l/d&id=25331329&u=1367058" title="【现货】三层熔布一次性口罩10只装" target="_blank" >
+                                        <img src="https://img.alicdn.com/imgextra/i3/2201471126346/O1CN01KeVgqe1wkW1XcG3P0_!!0-item_pic.jpg" alt="【现货】三层熔布一次性口罩10只装" style="width:85px; height:85px;">
+                                        <div class="tabCon">
+                                            <p>【现货】三层熔布一次性口罩10只装</p>
+                                            <span>￥11.9</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                                            <li class=""><a href="/index.php?r=l/d&id=25331533&u=1367058" title="【百人验货】加厚三层口罩10只" target="_blank" >
+                                        <img src="https://img.alicdn.com/imgextra/i3/2456600791/O1CN01QZ6c6S1HiJsWiNyDA_!!2456600791.png" alt="【百人验货】加厚三层口罩10只" style="width:85px; height:85px;">
+                                        <div class="tabCon">
+                                            <p>【百人验货】加厚三层口罩10只</p>
+                                            <span>￥14.9</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                                            <li class="gogo"><a href="/index.php?r=l/d&id=25344530&u=1367058" title="【OKADY】欧佩二裂酵母修护面膜" target="_blank" >
+                                        <img src="https://img.alicdn.com/imgextra/i4/771521010/O1CN01qVjW1A1JKcbxemr4I_!!771521010.jpg" alt="【OKADY】欧佩二裂酵母修护面膜" style="width:85px; height:85px;">
+                                        <div class="tabCon">
+                                            <p>【OKADY】欧佩二裂酵母修护面膜</p>
+                                            <span>￥29</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div> -->
+                </div>
+                                    <div class="rec-block receive">
+                <div class="tit"><span>大家都在领</span></div>
+                                <a href="/index.php?r=l/d&id=25327825&u=1367058" class="rec-list" target="_blank">
+                    <img class="fl" src="https://img.alicdn.com/imgextra/i4/1676532011/O1CN017INjMw1Qj54iGGth2_!!1676532011.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                    <div class="content">
+                        <p>【肉趣】10棵多肉+培育底盘（栽好发货）</p>
+                        <span class="coupon">券后 <i>¥ 11.8</i></span>
+                        <div class="received">已领取 <i>74000</i> 张</div>
+                    </div>
+                </a>
+                                <a href="/index.php?r=l/d&id=25311633&u=1367058" class="rec-list" target="_blank">
+                    <img class="fl" src="https://img.alicdn.com/imgextra/i4/3171501798/O1CN011P9WauXue1MeJLJ_!!3171501798.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                    <div class="content">
+                        <p>【万美】猴菇米稀饼干礼盒装1020g</p>
+                        <span class="coupon">券后 <i>¥ 16.9</i></span>
+                        <div class="received">已领取 <i>89000</i> 张</div>
+                    </div>
+                </a>
+                                <a href="/index.php?r=l/d&id=25297904&u=1367058" class="rec-list" target="_blank">
+                    <img class="fl" src="https://img.alicdn.com/imgextra/i2/627291547/O1CN01Q68e6j1NIZHyyrsUV_!!627291547.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                    <div class="content">
+                        <p>40包家用原木抽纸巾批发</p>
+                        <span class="coupon">券后 <i>¥ 25.99</i></span>
+                        <div class="received">已领取 <i>92000</i> 张</div>
+                    </div>
+                </a>
+                                <a href="/index.php?r=l/d&id=25295137&u=1367058" class="rec-list" target="_blank">
+                    <img class="fl" src="https://img.alicdn.com/imgextra/i4/2206924046963/O1CN01iJXNuK21J6OOV8YQZ_!!2206924046963.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                    <div class="content">
+                        <p>海南三亚大金煌芒果净果9斤</p>
+                        <span class="coupon">券后 <i>¥ 47.9</i></span>
+                        <div class="received">已领取 <i>47000</i> 张</div>
+                    </div>
+                </a>
+                                <a href="/index.php?r=l/d&id=25341780&u=1367058" class="rec-list" target="_blank">
+                    <img class="fl" src="https://img.alicdn.com/imgextra/i4/2614061582/O1CN014y8q4K1NYb87o4iqN_!!2614061582.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                    <div class="content">
+                        <p>新卷【萱草】海绵宝宝蒸汽眼罩5片</p>
+                        <span class="coupon">券后 <i>¥ 7.9</i></span>
+                        <div class="received">已领取 <i>48000</i> 张</div>
+                    </div>
+                </a>
+                                <a href="/index.php?r=l/d&id=25295157&u=1367058" class="rec-list" target="_blank">
+                    <img class="fl" src="https://img.alicdn.com/imgextra/i4/668705776/O1CN013vO3ti1sXSCcxjYrP_!!668705776.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                    <div class="content">
+                        <p>【慕拉】莫斯卡托起泡酒750ml</p>
+                        <span class="coupon">券后 <i>¥ 19</i></span>
+                        <div class="received">已领取 <i>49200</i> 张</div>
+                    </div>
+                </a>
+                                <a href="/index.php?r=l/d&id=25342382&u=1367058" class="rec-list" target="_blank">
+                    <img class="fl" src="https://img.alicdn.com/imgextra/i3/2795017955/O1CN01dGdgAm28dRIEcYgz0_!!2795017955.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                    <div class="content">
+                        <p>【拍3件】黄金酵母精华液</p>
+                        <span class="coupon">券后 <i>¥ 39.9</i></span>
+                        <div class="received">已领取 <i>57326</i> 张</div>
+                    </div>
+                </a>
+                                <a href="/index.php?r=l/d&id=25328221&u=1367058" class="rec-list" target="_blank">
+                    <img class="fl" src="https://img.alicdn.com/imgextra/i2/1063264201/O1CN01yHoSHW1gu6SijipOE_!!1063264201.jpg_310x310.jpg" alt="" width="90" height="90" style="background: #ccc">
+                    <div class="content">
+                        <p>神价！洗衣机槽泡腾清洁片12片装</p>
+                        <span class="coupon">券后 <i>¥ 9.8</i></span>
+                        <div class="received">已领取 <i>73000</i> 张</div>
+                    </div>
+                </a>
+                            </div>
+            
+        </div>
+        <div class="cf"></div>
+
+    </div>
+
+
+
+
+
+    <div style="font-family: SimSun;width:1200px;margin: 45px auto 30px;font-size: 12px;line-height: 26px;color: #aaa">
+        <p style="color: #666;font-weight: bold;font-size: 14px;margin-bottom: 10px;font-family: '宋体';">内容声明：</p>
+        <p class="void_border">
+            本网站是一家中立的导购网站，网站中的商品信息均来自于互联网。如商品信息不同，可能是商品信息未及时更新引起，所有商品信息请以淘宝/天猫店铺内为准。网站提醒用户，购买商品前注意谨慎核实相关信息。如用户对商品/服务的标题 、价格、详情等任何信息有任何疑问的，请在购买前与商品所属店铺经营者沟通确认。网站存在海量商品信息，如用户发现商品中有任何违法/违规信息，请<a href="/index.php?r=index/feedbackpc&id=25325706" style="color: #5384ff">立即反馈</a></p>
+    </div>
+
+
+
+    <!--精品推荐商品列表e-->
+
+</div>
+
+
+<script>
+    var third_link = '//three.ffquan.com/api/detail.html?p=RGZBmT2OUygNJElRBmRuzEygq4ZkMign2YyXhMymq6VB0EobBP2SykfsiZUbDsT2R3piTQhF%2B4Wo7zdomgrn76GjwiX6ZBpramzIqOtAspUNqwuHBeLH8AY2oPpUmYlOyi5vBYIr2V3TUeTFMFzLnqNLiddmmDgKdNxBl%2B7TU%2BFdpbbpI%2FtwAttaJDvsAQkCs1IOrlBwslbVykktid5SThGEDK2%2FOKRlMEo1E8fkt7JnYy3NFDj2ped20CtWw2Xi2xSwifiwxq4Oco%2FX98dOs8amWkuN0B8%2FZKmc9YomvwCxW2vx4R6kN3zeCsIn2vvWDCwhQhoXRJuiqiqkzzN5FaZb7Sz2mR2rD81inI5ILfypXpRaCiLzt3V%2F%2FfnNQIECTOI2XdSnPBpoqJkE2OKQK1s9ZPb652AebThW9972GZt9RNXd7Ugtzj3ojy%2FwulpwZtp9ig%2FimHCQzs2SBLR%2FIIWG%2FBlI80UhMpLztfVJUaLupOq5IquIzXjzPP575WvZKd6VAzK8PEASDdK97rt1rRcZkZyfl9DzsUa0BKWRXbVTOjavfzZpn6ra63I78%2BhF';
+    var default_link = 'https://uland.taobao.com/coupon/edetail?activityId=76e465f674db4854aa55a017e720dbc4&pid=mm_112317939_1418450426_110164600174&itemId=576278117694&src=qhkj_dtkp&dx=1';
+    var quan_jine = "5";
+</script>
+
+
+<script>
+    var activity = {"type":"3","goods_time":1585529940,"now":1585277931,"h":70,"m":0,"s":9};
+    var goods = {"activity":"0","activity_end_time":"2020-03-30 08:59:00","activity_type":"0","addtime":"2020-03-26 10:38:09","category_id":"121382014","cid":"3","copy_pic":null,"d_title":"ZEESEA\u5929\u4f7f\u4e18\u6bd4\u7279\u94bb\u77f3\u9ad8\u5149\u95ea\u7c89\u4fee\u5bb9\u76d8","discount_cut":"0","discount_full":"0","discount_type":"0","goodsid":"576278117694","huodong_type":"3","hz_quan_over":"0","is_delete":"0","is_haitao":"0","is_online":"1","is_pinpai":"0","is_video":"0","istmall":"1","jiage":"34.90","jihua_link":"","jinpaimaijia":"0","jipin":"0","market_id":null,"miaoshu":"\u7b2c\u4e8c\u4ef6\u534a\u4ef7\uff01\u3010ZEESEA\u65d7\u8230\u5e97\u3011\u6ecb\u8272\u5168\u65b0\u4e18\u6bd4\u7279\u94bb\u77f3\u9ad8\u5149\u795e\u4ed9\u95ea\u7c89\uff01\u5c0f\u7231\u795e\u6d6e\u96d5\u9ad8\u7aef\u5927\u6c14\uff0c\u73cd\u73e0\u767d\uff1a\u7c89\u8d28\u7ec6\u817b\uff0c\u5448\u73b0\u6781\u5149\u6c34\u611f\u808c\uff0c\u9999\u69df\u91d1\uff1a\u9ad8\u80fd\u9ad8\u5149\uff0c\u95ea\u8000\u5982\u5929\u4f7f\uff0c\u5448\u73b0\u94bb\u77f3\u5149\u611f\u808c\uff0c\u8f7b\u677e\u6253\u9020\u7cbe\u81f4\u5c0fv\u8138\u3010\u8d60\u8fd0\u8d39\u9669\u3011","neirong":null,"pic":"https:\/\/img.alicdn.com\/bao\/uploaded\/TB1y5_ykNn1gK0jSZKPXXXvUXXa.png","pic_list":"https:\/\/img.alicdn.com\/imgextra\/i1\/1773211220\/O1CN01UZkiCf1Ksnn33ROKa_!!0-item_pic.jpg,https:\/\/img.alicdn.com\/imgextra\/i3\/1773211220\/O1CN01HZ08jf1KsnmmPDRE2_!!1773211220.jpg,https:\/\/img.alicdn.com\/imgextra\/i4\/1773211220\/O1CN01Q8ea141KsnkQDfOKA_!!1773211220.jpg,https:\/\/img.alicdn.com\/imgextra\/i3\/1773211220\/O1CN01VswM7g1KsnkW5Gr6q_!!1773211220.jpg,https:\/\/img.alicdn.com\/imgextra\/i3\/1773211220\/O1CN01t9Z33K1KsnkR5catO_!!1773211220.png","qq_pic":null,"quan_id":"76e465f674db4854aa55a017e720dbc4","quan_jine":"5.00","quan_link":"https:\/\/uland.taobao.com\/quan\/detail?sellerId=1773211220&activityId=76e465f674db4854aa55a017e720dbc4","quan_m_link":null,"quan_num":"99871","quan_over":"129","quan_tiaojian":"39","quan_time":"2020-03-29 23:59:59","red_packet":null,"seller_id":"1773211220","sellnum":"234","shoufa":"1","start_time":"2020-03-27 10:00:00","super_pic":"https:\/\/sr.ffquan.cn\/dtk_user_fd\/20200325\/bpti2pcq57brudked77g0.jpg","tid":"25325706","title":"ZEESEA\u6ecb\u8272\u5929\u4f7f\u4e18\u6bd4\u7279\u94bb\u77f3\u9ad8\u5149\u4fee\u5bb9\u76d8\u63d0\u4eae\u73e0\u5149\u571f\u8c46\u6ce5\u6076\u9b54\u795e\u4ed9\u95ea\u7c89","tk_zs_id":"28437165","video_url":null,"xiaoliang":"54248","yongjin":"20.00","yongjin_jihua":"20.00","yongjin_que":"0.00","yuanjia":"39.90","yunfeixian":"1","zhongfen":"0.00","zt":"0","tj_content":"\u6b64\u6b3e\u5546\u54c1\u6b63\u5728<a href='\/index.php?r=l&hd=3&u=1367058' target='_blank'>\u805a\u5212\u7b97<\/a>\u4e0a\u53c2\u52a0\u7279\u4ef7\u6d3b\u52a8\uff0c\u66f4\u67095\u5143\u4f18\u60e0\u5238\uff0c\u5230\u624b\u4ec5\u970034.9\u5143\uff0c\u7edd\u5bf9\u8d85\u503c\uff0c\u6709\u9700\u8981\u53ef\u901f\u5ea6\u4e0b\u5355\u54e6\uff01"};
+    var eleven_ks = '2019-09-09 00:00:00';
+    var eleven_ke = '2019-09-10 23:59:59';
+    var gid = "25325706";
+    var quanhoujia =  $('.price').find('i').eq(0).text();
+    var feedbacksaveUrl = "/index.php?r=index/feedbacksave";   
+
+</script>
+<script src="https://cmsstatic.ffquan.cn//js/clipboard.min.js?v=202003091818"></script>
+<script src="https://cmsstatic.ffquan.cn//js/jquery.qrcode.min.js?v=202003091818"></script>
+<script src="https://cmsstatic.ffquan.cn//web/js/cms_pc_detail.js?v=202003091818" type="text/javascript" ></script>        </div>
+    </div>
+
+<script>
+    // 工具栏加入收藏
+    function addFavorite() {
+        var url = window.location;
+        var title = document.title;
+        var ua = navigator.userAgent.toLowerCase();
+        if (ua.indexOf("msie 8") > -1) {
+            external.AddToFavoritesBar(url, title, '');//IE8
+        } else {
+            try {
+                window.external.addFavorite(url, title);
+            } catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");//firefox
+                } catch (e) {
+                    layer.msg("加入收藏失败，请使用Ctrl+D进行添加");
+                }
+            }
+        }
+    }
+
+
+</script>
+
+
+<ul class="float-tool">
+    <li onclick="shoucang('我的网站',location.href)"><img src="https://cmsstatic.ffquan.cn//images/home/sc.png?v=202003091818" alt=""><p>收藏</p></li>
+    <li class="ft-share"><img src="https://cmsstatic.ffquan.cn//images/home/share.png?v=202003091818" alt=""><p>分享</p>
+        <div class="share-platform">
+            <div class="share-platform-r">
+                 <div class="bshare-custom bdsharebuttonbox bdshare-button-style1-32">         
+                    <a title="分享到微信" class="bshare-weixin bds_weixin"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog bds_tsina"></a>
+                    <a title="分享到QQ好友" class="bshare-qqim bds_sqq"></a>
+                    <a title="分享到QQ空间" class="bshare-qzone bds_qzone"></a>
+                </div>
+            </div>
+        </div>
+
+       
+        <script type="text/javascript" charset="utf-8" src="https://cmsstatic.ffquan.cn//lib/bshare/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script>
+        <script type="text/javascript" charset="utf-8" src="https://static.bshare.cn/b/bshareC0.js"></script>
+
+        
+
+    </li>
+        <li><a href="/index.php?r=index/feedbackpc" target="_blank"><img src="https://cmsstatic.ffquan.cn//images/home/feedback.png?v=202003091818" alt=""><p>反馈</p></a></li>
+    <li class="to_top" onclick=" $('body,html').animate({scrollTop:0},1000);"><img style="padding-top: 12px;" src="https://cmsstatic.ffquan.cn//images/home/top.png?v=202003091818" alt="" ></li>
+</ul>
+
+<script type="text/javascript">
+    var kw_url = "/index.php?r=l&kw=%E8%BF%9E%E8%A1%A3%E8%A3%99";
+    var _url = "/index.php?r=index/kwarr";   
+</script>
+
+
+
+
+<script src="https://cmsstatic.ffquan.cn//js/new_home.js?v=202003091818"></script>
+
+    <div id="footer" class="com-footer" style="height: auto">
+        <div class="footer-wrapper" style="padding: 45px 0 10px;">
+            <ul>
+                <li>网站导航</li>
+                <li><a href="/index.php?r=index/index">首页</a></li>
+                <li><a href="/index.php?r=l">好货精选</a></li>
+                <li><a href="/index.php?r=p">疯抢榜</a></li>
+                <li><a href="/index.php?r=ddq">咚咚抢</a></li>
+                <li><a href="/index.php?r=nine">9.9包邮</a></li>
+            </ul>
+            <p>精品购是一家中立的导购网站，网站中的商品信息均来自于互联网。如商品信息不同，可能是商品信息未及时更新，所有商品信息请以天猫/淘宝店铺内为准。</p>
+
+                        <div class="text">
+                <span>版权所有 本站内容未经书面许可,禁止一切形式的转载</span>
+                <span class="ml">&copy; CopyRight&nbsp;2020</span>
+                <a class="ml" href="//127.0.0.1:8080" target="_blank" rel="nofollow">
+                    精品购http://127.0.0.1:8080                </a>
+                <a class="miitbeian ml" href="http://www.beian.miit.gov.cn" target="_blank" rel="nofollow">
+                                    </a>
+                <a href="/index.php?r=index/feedbackpc" target="_blank" style="margin-left: 20px;text-decoration: underline;">我要反馈</a>
+                <p class="ml" style="text-algin:center;margin: 15px auto;"></p>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript" src="https://cmsstatic.ffquan.cn//web/js/jquery.jplayer.min.js?v=202003091818"></script>
+<script type="text/javascript" src="https://cmsstatic.ffquan.cn//js/scrollTop2.js?v=202003091818"></script>
+</body>
+</html>
+
+<script src="https://cmsstatic.ffquan.cn//wap_new/common/models/models-jsencrypt.js?v=202003091818" ></script>";}
